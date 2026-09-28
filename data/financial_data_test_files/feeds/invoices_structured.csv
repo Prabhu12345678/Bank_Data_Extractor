@@ -1,0 +1,3 @@
+invoice_number,date,vendor,customer,currency,subtotal,tax,total
+CSV-INV-001,2026-04-01,Acme Corp,FeedCo,USD,3000.00,300.00,3300.00
+CSV-INV-002,2026-04-05,Acme Corp,FeedCo,EUR,1500.00,0.00,1500.00

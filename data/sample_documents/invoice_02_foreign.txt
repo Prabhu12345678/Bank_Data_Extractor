@@ -1,0 +1,11 @@
+=== INVOICE ===
+Inv#: PO-1002
+Date: 26/09/2026
+Vendor: TechSupply Inc.
+---------------------
+Item             Qty     Price     Total
+Cabling 10m      10      11.00     110.00
+Switches         5       218.10    1090.50
+---------------------
+Total Due: 1200.50
+=== END ===

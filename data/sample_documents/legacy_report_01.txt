@@ -1,0 +1,23 @@
+COMPANY: TECH FINANCES INC.                                    DATE: 2026-09-26
+RUN BY : SYSTEM_ADMIN                                         PAGE: 1
+-------------------------------------------------------------------------------
+              A C C O U N T   R E C E I V A B L E   R E P O R T
+-------------------------------------------------------------------------------
+
+ACCOUNT NBR    CLIENT NAME                   TRANS DATE    PO-NUMBER        AMT
+===========    ===========================   ==========    =========   ========
+100-244-10     ACME CORP                     09/20/2026    PO-1001       200.00
+               DESC: SOFTWARE LICENSING
+               DESC: ANNUAL MAINTENANCE                                  250.00
+                                                           ----------------
+                                                           TOTAL:        450.00
+
+100-244-11     TECHSUPPLY INC.               09/22/2026    PO-1002       900.00
+               DESC: HARDWARE PROCUREMENT
+               DESC: SHIPPING & HANDLING                                 350.50
+                                                           ----------------
+                                                           TOTAL:       1250.50
+
+-------------------------------------------------------------------------------
+END OF REPORT - TOTAL ACCOUNTS: 2
+GRAND TOTAL:                                                           1700.50

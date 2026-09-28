@@ -1,0 +1,4 @@
+payment_ref,date,payer,payee,amount,currency,invoice_ref
+PAY-MX-001,2026-06-01,UKBuyer Ltd,Acme Corp,1920.00,GBP,INV-004
+PAY-MX-002,2026-06-02,EUBuyer GmbH,Acme Corp,4200.00,EUR,INV-003
+PAY-MX-003,2026-06-03,USBuyer Inc,Acme Corp,1100.00,USD,INV-001

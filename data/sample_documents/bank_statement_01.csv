@@ -1,0 +1,4 @@
+Date,Transaction,Amount,Balance
+2026-09-01,Opening Balance,,15000.00
+2026-09-05,Wire Transfer IN PO-1001,450.00,15450.00
+2026-09-10,Vendor Payment TechSupply,-1200.50,14249.50

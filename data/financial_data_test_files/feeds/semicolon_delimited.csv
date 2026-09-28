@@ -1,0 +1,2 @@
+invoice_number;date;vendor;customer;currency;total
+SEMI-001;2026-07-01;SemiCo;Client;USD;999.00

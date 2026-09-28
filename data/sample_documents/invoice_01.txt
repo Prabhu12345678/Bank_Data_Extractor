@@ -1,0 +1,25 @@
+=========================================================
+                    I N V O I C E
+=========================================================
+FROM:
+  Vendor: Acme Corp
+  Address: 123 Industrial Way, Sector 4
+  Tax ID: 99-888777
+
+TO:
+  Customer: BFSI Bank Inc.
+  Address: 456 Finance Blvd, NY
+
+Invoice Date : Oct 01, 2026
+Invoice No   : INV-88990
+PO Number    : PO-1001
+---------------------------------------------------------
+QTY     DESCRIPTION                              PRICE/U      TOTAL
+---------------------------------------------------------
+2       Server Migration Consulting               100.00     200.00
+10      Cloud Storage Instances (TB)               25.00     250.00
+---------------------------------------------------------
+                                   SUBTOTAL               450.00
+                                   TAX (0%)                 0.00
+=========================================================
+                                   TOTAL DUE              450.00

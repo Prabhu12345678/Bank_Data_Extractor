@@ -1,0 +1,4 @@
+payment_ref,date,payer,payee,amount,currency,invoice_ref
+PAY-CSV-001,2026-03-01,Beta LLC,Acme Corp,1500.00,USD,INV-001
+PAY-CSV-002,2026-03-02,Gamma Inc,Acme Corp,2500.00,USD,INV-002
+PAY-CSV-003,2026-03-03,Delta Co,Acme Corp,800.00,USD,INV-006

@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(venv/bin/pip install *)",
+      "Bash(venv/bin/python3 *)",
+      "Bash(venv/bin/pytest tests/)",
+      "Bash(PYTHONPATH=. venv/bin/pytest *)",
+      "Bash(chmod +x build_zip.sh)",
+      "Bash(./build_zip.sh)",
+      "Bash(curl *)",
+      "Bash(sed *)",
+      "Bash(docker compose build *)",
+      "Bash(pip download *)",
+      "Bash(pytest *)",
+      "Bash(PYTHONPATH=. LLM_PROVIDER=mock venv/bin/pytest *)",
+      "Bash(PYTHONPATH=. venv/bin/python *)"
+    ]
+  }
+}
